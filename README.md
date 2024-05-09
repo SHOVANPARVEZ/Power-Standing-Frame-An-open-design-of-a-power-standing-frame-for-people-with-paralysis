@@ -6,7 +6,8 @@
 ### DESCRIPTION:
 <P align="justify"> For people who have spinal cord injuries and are paralyzed, standing offers a viable and accessible remedy. The goal of our project is to create a power standing frame that is both affordable and effective in reducing pressure ulcer risks and improving general health. Standing offers people a safe, comfortable way to stand while enhancing bone density, muscular mass, and cardiovascular health by utilizing creative design and open-source collaboration. We value diversity and invite input from communities, healthcare providers, and users to improve and personalize the technology. Together with us, Standing will transform the well-being and mobility of paraplegic people all around the world.</P>
  
-![Block-Diagram]! [20240509_204620](https://github.com/SHOVANPARVEZ/Power-StandingFrame---An-open-design-of-a-power-standingframe-for-people-with-paralysis/assets/140902671/38fcc36b-9186-463e-83f8-98ba20df5341)
+![20240509_204620](https://github.com/SHOVANPARVEZ/Power-StandingFrame---An-open-design-of-a-power-standingframe-for-people-with-paralysis/assets/140902671/999c2d6b-8e3b-4dad-8524-b2e970173390)
+
 
 
 ### SPECIFICATIONS:
