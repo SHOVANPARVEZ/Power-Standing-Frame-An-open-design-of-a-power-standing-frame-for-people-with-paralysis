@@ -1,10 +1,10 @@
 # Power StandingFrame - An open design of a power standingframe for people with paralysis
 
 ### OBJECTIVES:
-<P align="justify"> The objective of the project was to design a low-cost manual standing wheelchair for people with paraplegia caused by spinal cord injury.</P> 
+<P align="justify"> The objective of the project was to design a low-cost power standing frame for people with paraplegia caused by spinal cord injury.</P> 
 
 ### DESCRIPTION:
-<P align="justify"> Individuals with paralysis or weakness below the waist can perform a variety of daily tasks by sitting using their upper body and can live a fulfilling life after a spinal cord injury (SCI). However, continuous sitting on a wheelchair can cause serious consequences including life threatening pressure ulcers in these individuals. Pressure ulcers indeed the number one cause of death in SCI in middle- and low-income counties. A standing wheelchair can easily solve this problem and is highly recommended for these individuals not only to avoid pressure ulcers but also to have numerous health benefits such as improved cardiovascular health, increased muscle mass and bone density below the level of injury by simply standing regularly. But conventional standing wheelchairs are too expensive for the majority of SCI individuals to reap the benefits of standing. Hence, the objective of this project was to develop a low-cost open-source standing wheelchair for people with paraplegia.</P>
+<P align="justify"> For people who have spinal cord injuries and are paralyzed, standing offers a viable and accessible remedy. The goal of our project is to create a power standing frame that is both affordable and effective in reducing pressure ulcer risks and improving general health. Standing offers people a safe, comfortable way to stand while enhancing bone density, muscular mass, and cardiovascular health by utilizing creative design and open-source collaboration. We value diversity and invite input from communities, healthcare providers, and users to improve and personalize the technology. Together with us, Standing will transform the well-being and mobility of paraplegic people all around the world.</P>
  
 ![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/StandingWheelchair-Manual.png)
 
