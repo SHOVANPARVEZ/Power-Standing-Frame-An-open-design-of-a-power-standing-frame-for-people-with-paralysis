@@ -35,11 +35,11 @@
 - Back support: Conventional wheelchiar back support is use. In addition a chaise belt is attached to the back support to protect the user from falling during the transition to standing position from sitting position.
 - Link shaft: The seat and back support of the chair are held erect by link shafts as the chair transforms to the standing position.
 - Seat cusion: Conventional seat cusion is used. It does not pose any discomfort to the user either in sitting or standing position.
-- Gas spring: Nitrogen oxide gas springs are used to assist the wheelchair in transforming from sitting to standing position.
-- Back wheel: Typical wheels that are commonly found in the wheelchairs are used.
+- Electric actuator: Electric actuator are used to assist the wheelchair in transforming from sitting to standing position.
+- wheels: Castor wheels are used in the front side of the wheelchair. They use a locking system to reduce the risk of the user from falling.
 - Knee guard: Another essential componet of our standing wheelchair since it is designed for the users who have no strength in their legs. The knee guards prevent the knee from collapsing and help the users stand upright.
-- Base frame: The main frame of the wheelchair that holds every parts of the wheelchair together. Each part can be mounted and unmounted to the base frame which allows low repair costs.
-- Front wheel: Castor wheels are used in the front side of the wheelchair. They use a locking system to reduce the risk of the user from falling.
+- Base frame: The main frame of the wheelchair that holds every parts of the Standing frame together. Each part can be mounted and unmounted to the base frame which allows low repair costs.
+- Chest support: Chest support for a standing frame stabilizes and ensures proper posture for users with limited mobility, enhancing safety and comfort..
 - Footrest: This special footrest is used to support the user's feet while sitting and standing. During the transition from a sitting to a standing position, the footrest height changes to allow safe standing.
  
 ### DISCLAIMER:
