@@ -1,4 +1,4 @@
-# Power StandingFrame - An open design of a power standingframe for people with paralysis
+# Power StandingFrame - An open design of a power standing frame for people with paralysis
 
 ### OBJECTIVES:
 <P align="justify"> The objective of the project was to design a low-cost power standing frame for people with paraplegia caused by spinal cord injury.</P> 
