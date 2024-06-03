@@ -27,7 +27,8 @@
 ### DESIGN:
 <P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following:
  
-![Schematic_SWC-shovan](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/standing%20wheelchair%20design.png)
+![standing F](https://github.com/SHOVANPARVEZ/Power-StandingFrame---An-open-design-of-a-power-standingframe-for-people-with-paralysis/assets/140902671/60877967-b688-4388-9bf8-b3bb717655a6)
+
 
 
 ###
