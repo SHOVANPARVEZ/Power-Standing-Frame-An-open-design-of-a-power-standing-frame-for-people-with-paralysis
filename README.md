@@ -43,11 +43,11 @@
 - Footrest: This special footrest is used to support the user's feet while sitting and standing. During the transition from a sitting to a standing position, the footrest height changes to allow safe standing.
  
 ### DISCLAIMER:
-<P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchair users, we do not provide any warranty in any aspect.</P>
+<P align="justify"> The design is offered as it is. Although it has been simulated the prototype has not yet being tested tested with the wheelchair users and we do not provide any warranty in any aspect.</P>
 
 ### WARNING:
 - The device is intended stricktly for research and education purposes.
-- The wheelchair is not certified for use without receving prior approval from a local safety board or review committee.
+- The stander is not certified for use without receving prior approval from a local safety board or review committee.
 
 ### DEVOLOPED BY:
  Shovan Parvez <br/>
