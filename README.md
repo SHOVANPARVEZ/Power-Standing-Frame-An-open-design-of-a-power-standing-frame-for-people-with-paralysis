@@ -1,10 +1,10 @@
-# Standing Frame - An open design of a power standing frame for people with paralysis
+# Active Stander - An open design of a powered standing frame for people with paralysis
 
 ### OBJECTIVES:
-<P align="justify"> The objective of the project was to design a low-cost power standing frame for people with paraplegia caused by spinal cord injury.</P> 
+<P align="justify"> The objective of the project was to design a low-cost electrically powered standing frame for people with paralysis.</P> 
 
 ### DESCRIPTION:
-<P align="justify"> For people who have spinal cord injuries and are paralyzed, standing offers a viable and accessible remedy. The goal of our project is to create a power standing frame that is both affordable and effective in reducing pressure ulcer risks and improving general health. Standing offers people a safe, comfortable way to stand while enhancing bone density, muscular mass, and cardiovascular health by utilizing creative design and open-source collaboration. We value diversity and invite input from communities, healthcare providers, and users to improve and personalize the technology. Together with us, Standing will transform the well-being and mobility of paraplegic people all around the world.</P>
+<P align="justify"> For people with paralysis caused by spinal cord injuries and other neurological condition, regular standing offers a viable remedy for preventing secondary injuries like pressure ulcer. The goal of our project is to create an actuator controled electric standing frame that is both affordable and effective in reducing pressure ulcer risks and improving general health of these individuals. Our active stander offers people a safe, comfortable way to stand while enhancing bone density, muscular mass, and cardiovascular health by utilizing creative design and open-source collaboration. We value diversity and invite input from communities, healthcare providers, and users to improve and personalize the technology. Together with us, the standing frame will transform the well-being and mobility of paraplegic people all around the world.</P>
  
 ![20240509_204620](https://github.com/SHOVANPARVEZ/Power-StandingFrame---An-open-design-of-a-power-standingframe-for-people-with-paralysis/assets/140902671/999c2d6b-8e3b-4dad-8524-b2e970173390)
 
