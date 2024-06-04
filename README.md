@@ -1,4 +1,4 @@
-# Power StandingFrame - An open design of a power standing frame for people with paralysis
+# Standing Frame - An open design of a power standing frame for people with paralysis
 
 ### OBJECTIVES:
 <P align="justify"> The objective of the project was to design a low-cost power standing frame for people with paraplegia caused by spinal cord injury.</P> 
@@ -27,8 +27,8 @@
 ### DESIGN:
 <P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following:
  
-![standing F](https://github.com/SHOVANPARVEZ/Power-StandingFrame---An-open-design-of-a-power-standingframe-for-people-with-paralysis/assets/140902671/60877967-b688-4388-9bf8-b3bb717655a6)
 
+![Schematic_SWC-shovans-creation_2024-06-03 (1)](https://github.com/SHOVANPARVEZ/Power-StandingFrame---An-open-design-of-a-power-standingframe-for-people-with-paralysis/assets/140902671/865a85da-463e-48bc-9748-7a817fcecebf)
 
 
 ###
@@ -36,7 +36,7 @@
 - Link shaft: The seat and back support of the chair are held erect by link shafts as the chair transforms to the standing position.
 - Seat cusion: Conventional seat cusion is used. It does not pose any discomfort to the user either in sitting or standing position.
 - Electric actuator: Electric actuator are used to assist the wheelchair in transforming from sitting to standing position.
-- wheels: Castor wheels are used in the front side of the wheelchair. They use a locking system to reduce the risk of the user from falling.
+- Controller: This controller using for actuator oparating.
 - Knee guard: Another essential componet of our standing wheelchair since it is designed for the users who have no strength in their legs. The knee guards prevent the knee from collapsing and help the users stand upright.
 - Base frame: The main frame of the wheelchair that holds every parts of the Standing frame together. Each part can be mounted and unmounted to the base frame which allows low repair costs.
 - Chest support: Chest support for a standing frame stabilizes and ensures proper posture for users with limited mobility, enhancing safety and comfort..
